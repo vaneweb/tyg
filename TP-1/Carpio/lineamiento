@@ -1,0 +1,26 @@
+INGENIERÍA EN SISTEMAS DE INFORMACIÓN
+
+ASIGNATURA: Tecnología y Gestión Web
+PROFESOR: Ing. Sebastián Arriada / Ing. Gabriel Migo / Ing. Ernesto Traversaro
+
+Lineamientos del trabajo práctico Individual
+
+Fecha de entrega: el 5 de junio de 2020
+Objetivos: Consolidar los conocimientos sobre las diferente tecnologías utilizadas en la Web 2.0, presentadas en clase.
+
+Modalidad y forma de entrega:
+‐ Cada alumno deberá clonarse el repositorio de la cátedra (https://github.com/tygweb/tygweb.github.io.git) y trabajar dentro de la carpeta TP-1, creando un directorio con su apellido, y dentro del mismo, resolver el TP. Una vez finalizado, deberá commitear su carpeta y hacer push al repositorio. Para poder realizar el push van a necesitar estar como colaboradores. Ingresen su usuario de git en este form https://forms.gle/WvSHYJtDkELLHvNj9 así los los habilitamos.
+
+Material de entrega: archivos fuentes necesarios para resolver el ejercicio.
+
+Ejercicio a resolver:
+•	El trabajo consiste en desarrollar un sitio,  que cumpla con las siguientes indicaciones, utilizando las tecnologías estudiadas en clase:
+Estructura del sitio:
+1. La estructura del sitio, estará formada por una cabecera, una barra lateral izquierda, un pie de página y el contenido principal. Deben utilizarse los tags de HTML5 para representar cada uno de los elementos nombrados anteriormente.
+2. En la cabecera deberá incluirse una imagen alineada a la izquierda a modo de logo (pueden utilizar cualquiera), el número del trabajo práctico y, el nombre y apellido del alumno.
+3. La barra lateral izquierda contendrá un menú con links de las APIs de redes sociales que van a mostrar. Al clickear el link, deberá consumir la información de la API y reflejarla en el contenido principal.
+4. En el pié de página se debe incluir el nombre de la materia junto a la fecha de
+realización.
+
+Página de inicio:
+5. Al abrir la página de inicio, el cuerpo principal mostrará de manera aleatoria una frase de entre tres elegidas por el alumno (puede resolverse mediante PHP o Javascript indistintamente) con la aplicación de estilos CSS3 a las letras para darle diferentes tipos de sombras a cada una de las frases. Por otro lado deberá incluir mediante tags HTML5 un video de presentación del alumno.
